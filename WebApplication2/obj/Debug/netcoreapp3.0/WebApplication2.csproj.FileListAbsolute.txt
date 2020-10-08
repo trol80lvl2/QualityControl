@@ -1,0 +1,951 @@
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\source\repos\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\source\repos\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Add\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Test\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Add\Login.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Add\Login.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Add\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (2)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Addition.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Add\Login.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Add\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Addition.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Test — копия (5\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Addition.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\LastVersion\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Addition.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\View.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Word.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\DocumentFormat.OpenXml.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Xceed.Document.NET.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Xceed.Words.NET.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Spire.Doc.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Spire.License.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\Spire.Pdf.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Statistics.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Web.DataVisualization.Design.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Web.DataVisualization.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\1\Desktop\Temp\02.01.19\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\DocumentFormat.OpenXml.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Xceed.Document.NET.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Xceed.Words.NET.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Spire.Doc.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Spire.License.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Spire.Pdf.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Web.DataVisualization.Design.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Web.DataVisualization.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Word.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Statistics.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\View.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Addition.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Defects.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditDefect.cshtml.g.cs
+C:\Users\1\Desktop\Temp\02.01.19 — копия (8)\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Adddefect.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.exe
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.deps.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Antlr3.Runtime.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\DocumentFormat.OpenXml.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Xceed.Document.NET.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Xceed.Words.NET.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\EntityFramework.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Spire.Doc.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Spire.License.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Spire.Pdf.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Magick.NET-Q16-AnyCPU.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Web.DataVisualization.Design.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Web.DataVisualization.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Forms.DataVisualization.Design.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Office.Interop.Word.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\WebGrease.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.AssemblyInfo.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.input.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.TagHelpers.output.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorCoreGenerate.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Account\Registration.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Adddefect.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Defects.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditDefect.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Statistics.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\View.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Addition.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Watch.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.RazorTargetAssemblyInfo.cs
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.Views.pdb
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.csproj.CopyComplete
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.dll
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\WebApplication2.pdb
+C:\Users\1\Desktop\Temp\Last\WebApplication2\obj\Debug\netcoreapp3.0\Razor\Views\Administration\Actions.cshtml.g.cs

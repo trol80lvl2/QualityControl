@@ -1,0 +1,8 @@
+﻿<form class="margin-top-60px" method="post" style="width:250px;padding-left:10px;">
+    <input class="form-control" type="text" name="NameUA" placeholder="NameUA" style="width:100%;margin-bottom:10px;" value="@ViewBag.Defect.Nameua" />
+    <input class="form-control" type="text" name="NameIT" placeholder="NameIT" style="width:100%;margin-bottom:10px;" value="@ViewBag.Defect.Nameit" />
+    <input class="form-control" type="text" name="NameEN" placeholder="NameEN" style="width:100%;margin-bottom:10px;" value="@ViewBag.Defect.Nameen" />
+    <input type="hidden" value="@ViewBag.Defect.DefectId" name="id"/>
+    <input type="submit" class="btn btn-primary" value="Edit" />
+    <a class="btn btn-danger" href="/administration/defects">Go back</a>
+</form>

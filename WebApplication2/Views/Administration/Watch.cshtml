@@ -1,0 +1,160 @@
+﻿@{
+    ViewData["Title"] = "My_Test";
+}
+@model IEnumerable<dynamic>
+<html>
+<head>
+    <title>Test</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <h4 class="margin-top">You are in orders @Html.ActionLink("Go back","Login","Account", new {@class="btn btn-link" })<img src="~/icons/Back.png" /></h4>
+    @using (Html.BeginForm(FormMethod.Get))
+    {
+<p class="filtr" style="margin-bottom:0;">
+    Order status:&nbsp;@Html.CheckBox("closed", new { @checked = true })
+    <label for="closed">Closed</label>
+    @Html.DropDownList("Year", ViewBag.Years as SelectList, new { @class = "form-control inp-text borders width", style = "width:75px;" })
+    Check status:&nbsp;@Html.CheckBox("accepted")
+    <label class="stat_a" for="accepted">Accepted</label>
+    @Html.CheckBox("accepted_u")
+    <label class="stat_b" for="accepted_u">Accepted (user)</label>
+    @Html.CheckBox("declined")
+    <label class="stat_c" for="declined">Declined</label>
+    @Html.CheckBox("not")
+    <label class="stat_d" for="not">Waiting...</label>
+    <input class="btn btn-warning" type="submit" value="Search" />
+</p>
+    }
+    <div class="container2 container3" style="width:100vw;">
+        <table class="table table1" id="table">
+            <th>Date</th>
+            <th>Articolo</th>
+            <th>Color</th>
+            <th>TaskNum</th>
+            <th>Client</th>
+            <th>Total</th>
+            <th>Selection</th>
+            <th>Machine</th>
+            <th>Linea</th>
+            <th>Fustella</th>
+            <th>Season</th>
+            <th>User</th>
+            <th></th>
+            <th></th>
+
+
+            @if (Model != null)
+            {
+
+                @foreach (var item in Model)
+                {
+
+
+                    <tr>
+                        <td class="stat_@item.Status"></td>
+                        <td class="col1 stat_@item.Status">@item.Articolo</td>
+                        <td class="stat_@item.Status">@item.Color</td>
+                        <td class="col3 stat_@item.Status">@item.TaskNum</td>
+                        <td class="col4 stat_@item.Status">@item.Client</td>
+                        <td class="stat_@item.Status">@item.Total</td>
+                        <td class="stat_@item.Status">@item.Selection</td>
+                        <td class="col5 stat_@item.Status">@item.Machine</td>
+                        <td class="stat_@item.Status">@item.Linea</td>
+                        <td id="td1" class="stat_@item.Status">@item.Fustella</td>
+                        <td class="stat_@item.Status">@item.Year.Year</td>
+                        <td class=""></td>
+                        @if (item.Id != null)
+                        {
+                            <td>@Html.ActionLink("View", "View", new { id = item.Id })</td>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Id })</td>
+                            }
+                            else
+                            {
+                                <td></td>
+                            }
+                        }
+                        else
+                        {
+                            <td></td>
+                            <td></td>
+                        }
+
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</body>
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="~/js/TableFilter-master/dist/tablefilter/tablefilter.js"></script>
+
+<script>
+    var filtersConfig = {
+  // instruct TableFilter location to import ressources from
+        base_path: 'https://unpkg.com/tablefilter@latest/dist/tablefilter/',
+     
+        col_1: 'select',
+        col_2: 'select',
+        col_3: 'select',
+        col_7: 'select',
+        col_8: 'select',
+        col_9: 'select',
+        col_10: 'select',
+        col_11: 'select',               
+  highlight_keywords: true,
+  no_results_message: true,
+  col_types: [
+    'string', 'string', 'string',
+    'string', 'string', 'string',
+      'string', 'string', 'string',
+      'string', 'string', 'string'
+
+  ],
+
+  col_widths: [
+    '6.9%', '11.5%', '11.5%',
+    '8.6%', '5.75%', '5.75%',
+    '5.75%', '12.4%', '5%',
+    '5%','6%','3%',
+  ]
+
+};
+
+var tf = new TableFilter('table', filtersConfig);
+    tf.init();
+</script>
+
+
+
+
+
+
+
+
+
+<!--<script>
+$(function() {
+    $('#filter1').keyup(function () {
+        ($("#table td.col1:contains('" + $(this).val().toUpperCase() + "')")).parent().show();
+    $("#table td.col1:not(:contains('" + $(this).val().toUpperCase() + "'))").parent().hide();
+  });
+
+      $('#filter3').keyup(function() {
+               ($("#table td.col3:contains('" + $(this).val().toUpperCase() + "')")).parent().show();
+    $("#table td.col3:not(:contains('" + $(this).val().toUpperCase() + "'))").parent().hide();
+      });
+      $('#filter4').keyup(function() {
+               ($("#table td.col4:contains('" + $(this).val().toUpperCase() + "')")).parent().show();
+    $("#table td.col4:not(:contains('" + $(this).val().toUpperCase() + "'))").parent().hide();
+      });
+      $('#filter5').keyup(function() {
+              ($("#table td.col5:contains('" + $(this).val().toUpperCase() + "')")).parent().show();
+    $("#table td.col5:not(:contains('" + $(this).val().toUpperCase() + "'))").parent().hide();
+  });
+});
+</script>
+-->

@@ -1,0 +1,117 @@
+﻿@model OrderCreateViewModel
+<html>
+<head>
+    <title>Test</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <div class="cont">
+        <div class="white">
+        @foreach (var check in ViewBag.Orders)
+        {
+            if (User.IsInRole("Admin"))
+            {
+                <p class="added">Added by @check.UserId @check.Date_user</p>
+            }
+            else if (User.IsInRole("User") && check.WhoChecked != null)
+            {
+                <p class="added">Checked by @check.WhoChecked @check.Date_checked</p>
+            }
+        }
+        </div>
+        <div class="container2 margin-top padding-top">
+
+            <table class="table table1 table2">
+                <tr>
+                    <td>@Html.ActionLink("Date", "Watch", new { sortOrder = ViewBag.DateSortParm })</td>
+                    <td>Articolo</td>
+                    <td>Color</td>
+                    <td>TaskNum</td>
+                    <td>@Html.ActionLink("Client", "Watch", new { sortOrder = ViewBag.NameSortParm })</td>
+                    <td>Total</td>
+                    <td>Selection</td>
+                    <td>Machine</td>
+                    <td>MaxDef</td>
+                    <td>MinDef</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                @foreach (var check in ViewBag.Orders)
+                {
+            <tr>
+                <td class="data">@check.Date.ToShortDateString()</td>
+                <td>@check.Articolo</td>
+                <td>@check.Color</td>
+                <td>@check.TaskNum</td>
+                <td class="client">@check.Client</td>
+                <td>@check.Total</td>
+                <td class="selection">@check.Selection</td>
+                <td class="machine">@check.Machine</td>
+                <td>
+                    @foreach(var max in ViewBag.MinDef)
+                    {
+                        <p>@max.NameDef - @max.Comment</p>
+                    }
+                </td>
+                <td>
+                    @foreach (var max in ViewBag.MaxDef)
+                    {
+                        <p>@max.NameDef - @max.Comment</p>
+                    }
+                </td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td class="btn-left" style="padding-right:3px"><a href="/administration/decision?status=accept&id=@ViewBag.Id" class="btn btn-success">Accept</a></td>
+                    <td class="btn-right" style="padding-left:3px">
+                        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#myModal">
+                            Decline
+                        </button>
+                    </td>
+                }
+                else if (User.IsInRole("User") && check.Commentary != null)
+                {
+                    <td><a class="pointer" href="#" data-toggle="popover" title="Commentary" data-trigger="hover" data-content="@check.Commentary" data-placement="left"><img src="~/icons/Alert.png" /></a></td>
+                    <script>
+                        $(document).ready(function(){
+                            $('[data-toggle="popover"]').popover();
+                        });
+                    </script>
+                }
+                <td><a href="/Administration/Report?id=@ViewBag.Id"><img src="~/icons/Printer.png" /></a></td>
+            </tr>
+                }
+            </table>
+            <div class="modal" id="myModal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+
+                        <form method="post">
+                            <div class="modal-header">
+                                <h4 class="modal-title">Commentary</h4>
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            </div>
+                            <input type="hidden" value="@ViewBag.Id" name="id1" />
+
+                            <div class="modal-body">
+                                <textarea class="form-control area area1 margin" name="commentary"></textarea>
+                            </div>
+
+
+                            <div class="modal-footer">
+                                <input type="submit" value="OK" class="btn btn-danger">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="">
+            @foreach (var pic in ViewBag.Pics)
+            {
+                <img class="picture-view" src="~/images/@pic.Name">
+            }
+        </div>
+</body>
+</html>

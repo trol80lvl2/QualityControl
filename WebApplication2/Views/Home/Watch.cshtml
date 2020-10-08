@@ -1,0 +1,111 @@
+﻿@{
+    ViewData["Title"] = "My_Test";
+}
+<html>
+<head>
+    <title>Test</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+
+    <h4 class="margin-top">You are in history @Html.ActionLink("Go back","Login","Account", new {@class="btn btn-link" })<img src="~/icons/Back.png" /><br />  <a class="margin-top-60px padding" href="javascript:collapsElement('identifikator')" title="" rel="nofollow"><img src="~/icons/Zoom-Out.png" onclick="imgsrc(this)" /></a></h4>
+
+    <div class="div3" id="identifikator" style="display:">
+        <div class="filter-div">
+            @using (Html.BeginForm())
+            {
+            <p class="" style="margin-bottom:5px;padding-right:10px;">
+                @Html.DropDownList("Year", ViewBag.Years as SelectList, new { @class = "form-control inp-text borders width" })
+                Check status:
+                @Html.CheckBox("accepted_u")
+                <label class="stat_b" for="accepted_u">OK by check</label>
+                @Html.CheckBox("accepted")
+                <label class="stat_a" for="accepted">Accepted</label>
+                @Html.CheckBox("declined")
+                <label class="stat_c" for="declined">Declined</label>
+                @Html.CheckBox("not")
+                <label class="margin-right stat_d" for="not">Waiting for check</label>
+                <input class="btn btn-warning" type="submit" value="Search" />
+            </p>
+            }
+        </div>
+
+    </div>
+    <div class="container2 container4">
+        <table class="table table1" id="table">
+            <tr>
+                <td>Date</td>
+                <td>Articolo<input type="hidden" autofocus /></td>
+                <td>Color</td>
+                <td>TaskNum</td>
+                <td>Client</td>
+                <td>Total</td>
+                <td>Selection</td>
+                <td>Machine</td>
+                <td>MaxDef</td>
+                <td>MinDef</td>
+            </tr>
+            @foreach (var check in Model)
+            {
+                <tr>
+                    <td class="stat_@check.Status">@check.Date.ToShortDateString()</td>
+                    <td class="stat_@check.Status">@check.Articolo</td>
+                    <td class="stat_@check.Status">@check.Color</td>
+                    <td class="stat_@check.Status">@check.TaskNum</td>
+                    <td class="stat_@check.Status">@check.Client</td>
+                    <td class="stat_@check.Status">@check.Total</td>
+                    <td class="stat_@check.Status">@check.Selection</td>
+                    <td class="stat_@check.Status">@check.Machine</td>
+                    <td class="stat_@check.Status Def">@check.MaxDef</td>
+                    <td class="stat_@check.Status Def">@check.MinDef</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
+<script>
+    function collapsElement(id) {
+        if (document.getElementById(id).style.display != "none") {
+            document.getElementById(id).style.display = 'none';
+        }
+        else {
+            document.getElementById(id).style.display = '';
+        }
+    }
+
+</script>
+<script>
+    function imgsrc(img) {
+        if ($(img).attr("src") == "/icons/Zoom-In.png")
+            $(img).attr("src", "/icons/Zoom-Out.png");
+        else
+            $(img).attr("src", "/icons/Zoom-In.png");
+    }
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="~/js/TableFilter-master/dist/tablefilter/tablefilter.js"></script>
+<script>
+    var filtersConfig = {
+        base_path: 'https://unpkg.com/tablefilter@latest/dist/tablefilter/',
+        col_1: 'select',
+        col_2: 'select',
+        col_3: 'select',
+        col_4: 'select',
+        col_7: 'select',
+        highlight_keywords: true,
+        no_results_message: true,
+        col_types: [
+            'string', 'string', 'string',
+            'string', 'string', 'string',
+        ],
+        col_widths: [
+            '6.5%', '8%', '11.5%',
+            '6%', '11%', '5%',
+            '10%', '12%','12%',
+        ]
+
+    };
+    var tf = new TableFilter('table', filtersConfig);
+    tf.init();
+</script>

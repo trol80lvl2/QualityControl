@@ -1,0 +1,178 @@
+﻿@model OrderCreateViewModel
+<html>
+<head>
+    <title>Test</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <h4 class="margin-top">You are in new check @Html.ActionLink("Go back","Login","Account", new {@class="btn btn-link" })<img src="~/icons/Back.png" /></h4>
+    <div class="row">
+        <div class="col-md-5 mobile">
+            <form enctype="multipart/form-data" id="form1" runat="server" method="post">
+                <div class="form form1">
+                    @if (ViewBag.Bolla == 0)
+                    {
+                        <select class="inp-text form-control width" name="Bolla3" required>
+                            @foreach (var year in ViewBag.Years)
+                            {
+                                <option>@year.Expr1</option>
+                            }
+                        </select>
+                        <input type="number" class="inp-text form-control width1" name="Bolla" placeholder="Numord" required />
+                        <input type="number" class="inp-text form-control width1" name="Bolla2" placeholder="Rigord" required /><br />
+                        <input class="btn btn-primary click" type="submit" value="Go" />
+                    }
+                    else
+                    {
+                        if (((ViewBag.Slavik != null) && (ViewBag.ord == null)) || (ViewBag.ord != null && ViewBag.ord.Status == "c"))
+                        {
+                            <input class="inp-text form-control" name="Date" type="date" autocomplete="on" tabindex="1" />
+                            <input type="text" class="inp-text form-control" name="TaskNum" readonly required value="@ViewBag.Slavik.Numord/@ViewBag.Slavik.Rigord" tabindex="-1" />
+                            <input type="text" class="inp-text form-control upper" name="Articolo" placeholder="art" value="@ViewBag.Slavik.Articolo" readonly tabindex="-1" />
+                            <input type="text" class="inp-text form-control" name="Stagione" value="@ViewBag.Slavik.Codsta.Year" readonly tabindex="-1" />
+                            <input type="text" class="inp-text form-control" name="Color" value="@ViewBag.Color.Valore-@ViewBag.Color.Descrizione" readonly tabindex="-1" />
+                            <input type="text" class="inp-text form-control" name="Client" value="@ViewBag.Client.Codclf.Trim()-@ViewBag.Client.Ragsoc" readonly tabindex="-1" />
+                            <input type="text" class="inp-text form-control" name="Linea" value="@ViewBag.Slavik.Linea" readonly tabindex="-1" />
+                            <input type="text" class="inp-text form-control" name="Fustella" value="@ViewBag.Slavik.Fustella" readonly tabindex="-1" />
+                            <input type="number" class="inp-text form-control" name="Total" placeholder="QUANTITA TOTALE" required tabindex="2" value="@Convert.ToInt32(ViewBag.Slavik.QtaOrd)" />
+                            <input type="text" class="inp-text form-control" name="Selection" placeholder="QUANTITA ISPEZIONATA" required tabindex="3" value="@ViewBag.Ispe" />
+                            @foreach (var machine in ViewBag.Machine)
+                            {
+                                <input type="text" class="inp-text form-control" name="Machine" placeholder="MACHINE" required tabindex="4" value="@machine.Jrdesc" readonly /><br />
+                            }
+                            <input type="hidden" id="def" name="def" />
+                            <input type="hidden" id="def1" name="def1" />
+                            <div style="display:inline-flex">
+                            <div class="ww" style="float:left;">
+                                <h5>Minimal defects</h5>
+                                <div class="area-add">
+                                    <select class="form-control inp-text borders width" id="Defect" style="margin-bottom:0;width:37%;">
+                                        @foreach (var item in ViewBag.Defect)
+                                        {
+                                            <option value="@item.DefectId">@item.DefectId.&nbsp;@item.Nameua</option>
+                                        }
+                                    </select>&nbsp;
+
+                                    <input class="form-control" type="text" id="id1" style="width:42%;color:#495057;" />&nbsp;
+                                    <a class="cursor" title="" id="one" rel="nofollow" style="margin-top:3px;"><img src="~/icons/Plus.png" /></a><br />
+                                </div>
+                                <input type="hidden" class="testing" id="0" />
+                            </div>
+                            <div class="ww wv" style="float:right;">
+                                <h5>Serious defects</h5>
+                                <div class="area-add">
+                                    <select class="form-control inp-text borders width" id="Defect1" style="margin-bottom:0;width:37%;">
+                                        @foreach (var item in ViewBag.Defect)
+                                        {
+                                        <option value="@item.DefectId">@item.DefectId.&nbsp;@item.Nameua</option>
+                                        }
+                                    </select>&nbsp;
+
+                                    <input class="form-control" type="text" id="id2" style="width:42%;color:#495057;" />&nbsp;
+                                    <a class="cursor" title="" id="one1" rel="nofollow" style="margin-top:3px;"><img src="~/icons/Plus.png" /></a><br />
+                                </div>
+                                <input type="hidden" class="testing testing1" id="60" />
+                            </div>
+                                </div>
+                            <div class="col-sm-12">
+                                <input multiple asp-for="Photo" class="form-control custom-file-input" style="text-align:left; margin-bottom:5px;" />
+                                <label class="custom-file-label">Choose files...</label>
+                            </div>
+                            <hr />
+                            <input type="checkbox" asp-for="CanGo" id="customCheck" name="CanGo">
+                            <label for="customCheck">Can go(almost ideal)</label><hr />
+                            <input type="submit" class="btn btn-primary submit" value="Add" tabindex="7" />
+                            <div class="history-block">
+                                @foreach (var his in ViewBag.HistoryNum)
+                                {
+                                    <p>@his.Action in @his.Date</p>
+                                }
+                            </div>
+                        }
+                        else
+                        {
+                            <h2>Incorrect data</h2>
+                            <input class="btn btn-primary click" type="submit" value="Try again" />
+                        }
+                    }
+                </div>
+                @section Scripts{
+                    <script>
+                        $(document).ready(function () {
+                            $('.custom-file-input').on("change", function () {
+                                var fileLabel = $(this).next('.custom-file-label');
+                                var files = $(this)[0].files;
+                                if (files.length > 1) {
+                                    fileLabel.html(files.length + ' files selected');
+                                }
+                                else if (files.length == 1) {
+                                    fileLabel.html(files[0].name);
+                                }
+                            })
+                        })
+                    </script>
+                }
+            </form>
+        </div>
+        <div class="col-md-7 border-left history">
+            @foreach(var p in ViewBag.History)
+            {
+                <p>@p.Action in @p.Date</p>
+            }
+        </div>
+    </div>
+</body>
+</html>
+<script>
+    document.querySelector('#one1').onclick = function () {
+            if (document.getElementById('id2').value != "") {
+            var id = parseInt(document.querySelector('.testing1:last-of-type').getAttribute('id'));
+            var theDiv = document.createElement('input');
+            var del = document.createElement('button');
+            var select = document.getElementById('Defect1');
+            del.className = 'delete';
+            del.id = id + 1;
+            del.type = 'button';
+            del.innerHTML = '<img src="/icons/cross.png" />';
+            var sum = id + 1;
+            var iddel = 'remove(' +sum + ')';
+            del.setAttribute('onclick', iddel);
+            theDiv.type = 'text';
+            theDiv.className = 'testing testing1';
+            theDiv.name = 'maxidef';
+            theDiv.id = id + 1;
+            document.querySelector('.wv').appendChild(theDiv);
+            document.querySelector('.wv').appendChild(del);
+            document.querySelector('.testing1:last-of-type').value = select.value + ". " + document.getElementById('id2').value;
+            document.getElementById('id2').value = "";
+        }
+    }
+        document.querySelector('#one').onclick = function () {
+            if (document.getElementById('id1').value != "") {
+            var id = parseInt(document.querySelector('.testing:last-of-type').getAttribute('id'));
+            var theDiv = document.createElement('input');
+            var del = document.createElement('button');
+            var select = document.getElementById('Defect');
+            del.className = 'delete';
+            del.id = id + 1;
+            del.type = 'button';
+            del.innerHTML = '<img src="/icons/cross.png" />';
+            var sum = id + 1;
+            var iddel = 'remove(' + sum + ')';
+            del.setAttribute('onclick', iddel);
+            theDiv.type = 'text';
+            theDiv.className = 'testing';
+            theDiv.name = 'minidef';
+            theDiv.id = id + 1;
+            document.querySelector('.ww').appendChild(theDiv);
+                 document.querySelector('.ww').appendChild(del);
+                 document.querySelector('.testing:last-of-type').value = select.value + ". " + document.getElementById('id1').value;
+                 document.getElementById('id1').value = "";
+        }
+    }
+    function remove(id) {
+        document.getElementById(id).remove();
+        document.getElementById(id).remove();
+    }
+
+</script>

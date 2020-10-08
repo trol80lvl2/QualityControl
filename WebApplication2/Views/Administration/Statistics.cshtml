@@ -1,0 +1,153 @@
+﻿@{
+    ViewData["Title"] = "My_Test";
+
+}
+
+    <html>
+    <head>
+        <title>Test</title>
+        <link rel="stylesheet" href="~/css/style.css" />
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+    </head>
+    <body>
+        <h4 class="margin-top">You are in statistic @Html.ActionLink("Go back", "Login", "Account", new { @class = "btn btn-link" })<img src="~/icons/Back.png" /></h4>
+        <div class="link-line">
+            <label class="label" for="date">Select period</label>
+            <div id="reportrange" style="border:0;display:inline-flex;padding-left:5px;padding-bottom:5px;">
+                <form method="get" style="display:inherit">
+                    @Html.TextBox("date1", null, new { @class = "form-control date-pick" })
+                    &nbsp<label for="year" class="label" style="margin-bottom:0;">Season:</label>
+                    @Html.DropDownList("Year", ViewBag.Years as SelectList, new { @class = "form-control inp-text borders width", @style = "margin-bottom:0;width:75px;" })&nbsp;
+                    @Html.DropDownList("Linea", ViewBag.Linea as SelectList, "Linea", new { @class = "form-control inp-text borders width", @style = "margin-bottom:0;width:75px;" })&nbsp;
+                    @Html.DropDownList("Fustella", ViewBag.Fustella as SelectList, "Fustella", new { @class = "form-control inp-text borders width", @style = "margin-bottom:0; width:120px;" })&nbsp;
+                    @Html.DropDownList("Client", ViewBag.Customer as SelectList, "Customer", new { @class = "form-control inp-text borders width", @style = "margin-bottom:0; width:150px;" })&nbsp;
+                    @Html.DropDownList("Machine", ViewBag.Reparto as SelectList, "Reparto", new { @class = "form-control inp-text borders width", @style = "margin-bottom:0; width:150px;" })&nbsp;
+                    <input type="submit" class="btn btn-primary" value="Apply" />
+                </form>
+            </div>
+
+            <script type="text/javascript">
+                $(function () {
+
+                    var start;
+                    var end;
+
+                    function cb(start, end) {
+
+                        $('#reportrange input[name=date]').val(start.format('DD/MM/YYYY') + '-' + end.format('DD/MM/YYYY'));
+                    }
+
+                    $('#reportrange .date-pick').daterangepicker({
+                        startDate: start,
+                        endDate: end,
+                        ranges: {
+                            'Today': [moment(), moment()],
+                            'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+                            'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+                            'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+                            'This Month': [moment().startOf('month'), moment().endOf('month')],
+                            'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+                        }
+                    }, cb);
+
+                    cb(start, end);
+
+                });
+            </script>
+
+
+        </div>
+        <table class="table table1" style="background-color:#b9d4eb;">
+            <tr>
+                <td class="width">Period</td>
+                <td>Added</td>
+                <td>With deffects</td>
+                <td>Defects, %</td>
+                <td>Accepted</td>
+                <td>Accepted, %</td>
+                <td>Declined</td>
+                <td>Declined, %</td>
+                <td>Waiting...</td>
+            </tr>
+
+            <tr>
+                <td class="width">@ViewBag.From-@ViewBag.To</td>
+                <td class="">@ViewBag.AllIn</td>
+                <td class="">@ViewBag.perwithdef</td>
+                <td class="">@ViewBag.Depo</td>
+                <td class="">@ViewBag.CountA</td>
+                <td class="">@ViewBag.A</td>
+                <td class="">@ViewBag.CountC</td>
+                <td>@ViewBag.C</td>
+                <td>@ViewBag.CountD</td>
+            </tr>
+
+        </table>
+
+        <div class="canvas-div">
+            <div class="each-canva"><canvas id="oilChart" class="popChart" width="600" height="370" role="img"></canvas></div>
+
+        <div class="each-canva"><canvas id="twoChart" class="popChart" width="600" height="370" role="img"></canvas></div></div>
+        <script>
+var oilCanvas = document.getElementById("oilChart");
+
+Chart.defaults.global.defaultFontFamily = "Arial";
+            Chart.defaults.global.defaultFontSize = 18;
+
+var oilData = {
+    labels: [
+        "With defects, %",
+        "Without defects, %"
+    ],
+    datasets: [
+        {
+            responsive: true,
+            data: [@ViewBag.Depo, @ViewBag.Depo1],
+            backgroundColor: [
+                "#FF6384",
+                "#63FF84"
+            ]
+        }]
+};
+var pieChart = new Chart(oilCanvas, {
+  type: 'pie',
+    data: oilData
+  
+});
+        </script>
+        <script>
+var oilCanvas = document.getElementById("twoChart");
+
+Chart.defaults.global.defaultFontFamily = "Arial";
+Chart.defaults.global.defaultFontSize = 18;
+
+var oilData = {
+    labels: [
+        "Accepted, %",
+        "Declined, %",
+        "Waiting for decision, %"
+    ],
+    datasets: [
+        {
+            responsive: true,
+            data: [@ViewBag.A, @ViewBag.C, @ViewBag.D],
+            backgroundColor: [
+                "#004C8E",
+                "#F2B904",
+                "#FC0B72",
+            ]
+        }]
+};
+var pieChart = new Chart(oilCanvas, {
+  type: 'pie',
+  data: oilData
+});
+        </script>
+
+    </body>
+    </html>
+

@@ -1,0 +1,20 @@
+﻿<a class="btn btn-primary" style="width:auto;margin-top:56px;"
+   asp-controller="administration" asp-action="Adddefect">Add new defect</a>
+    @foreach (var def in ViewBag.Defects)
+    {
+<div class="card mb-3">
+    <div class="card-header">
+        Defect Id : @def.DefectId
+    </div>
+    <div class="card-body">
+        <h5>@def.Nameua</h5>
+        <h5>@def.Nameit</h5>
+        <h5>@def.Nameen</h5>
+    </div>
+    <div class="card-footer">
+        <a class="btn btn-primary" asp-action="EditDefect"
+           asp-controller="Administration" asp-route-id="@def.DefectId">Edit</a>
+    </div>
+</div>
+    }
+

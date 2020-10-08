@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "My_Test";
+
+}
+@addTagHelper *, Kendo.Mvc
+<html>
+<head>
+    <title>Test</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="~/js/TableFilter-master/dist/tablefilter/tablefilter.js"></script>
+</head>
+<body>
+    <div class="margin-top-60px ww">
+        <select id="select">
+            <option>123</option>
+            <option>321</option>
+            <option>213</option>
+        </select>
+        <button onclick="example()" id="one">Click me</button>
+        <input type="hidden" class="testing" id="0" />
+    </div>
+</body>
+</html>
+<script>
+    document.querySelector('#one').onclick = function () {
+        var id = parseInt(document.querySelector('.testing:last-of-type').getAttribute('id'));
+        var select = document.getElementById('select');
+        var theDiv = document.createElement('input');
+        var del = document.createElement('button');
+        del.className = 'delete';
+        del.id = id + 1;
+        del.innerHTML = '<img src="/icons/cross.png" />';
+        var sum = id + 1;
+        var iddel = 'remove(' + sum + ')';
+        del.setAttribute('onclick', iddel);
+        theDiv.type = 'text';
+        theDiv.className = 'testing';
+        theDiv.id = id+1;
+        this.parentNode.appendChild(theDiv);
+        this.parentNode.appendChild(del);
+        document.querySelector('.testing:last-of-type').value = id + 1;
+    }
+    function remove(id) {
+        document.getElementById(id).remove();
+        document.getElementById(id).remove();
+    }
+    </script>

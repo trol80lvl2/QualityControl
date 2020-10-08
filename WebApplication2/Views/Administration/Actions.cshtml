@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "My_Test";
+}
+<html>
+<head>
+    <title>Test</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <h4 class="margin-top">You are in history of actions @Html.ActionLink("Go back", "Login", "Account", new { @class = "btn btn-link" })</h4>
+    <div class="div3" id="identifikator" style="display:">
+        <div class="filter-div">
+            @using (Html.BeginForm(FormMethod.Get))
+            {
+                @Html.DropDownList("Status",ViewBag.Status as SelectList,"Action", new { @class = "form-control inp-text borders width" })
+                @Html.DropDownList("User", ViewBag.User as SelectList,"Users", new { @class = "form-control inp-text borders width" })
+                @Html.DropDownList("TaskNum", ViewBag.TaskNum as SelectList,"Task", new { @class = "form-control inp-text borders width" })
+                <input type ="submit" value="Search" class="btn btn-primary" style="margin-right:10px; margin-top:-5px;"/>
+            }
+        </div>
+    </div>
+    <div class="container2 container4">
+        <table class="table table1" id="table">
+            <tr>
+                <td>Date</td>
+                <td>Task number</td>
+                <td>User</td>
+                <td>Status</td>
+                <td>Action</td>
+            </tr>
+            @foreach (var check in ViewBag.History)
+            {
+        <tr>
+            <td>@check.Date</td>
+            <td>@check.TaskNum</td>
+            <td>@check.Wuser</td>
+            <td>@check.Status</td>
+            <td>@check.Action</td>
+        </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
+
